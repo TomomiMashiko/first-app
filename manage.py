@@ -2,6 +2,9 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+# todo requirements.txtに記述
+# import pymysql
+# pymysql.install_as_MySQLdb()
 
 
 def main():
